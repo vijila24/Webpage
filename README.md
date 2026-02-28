@@ -127,26 +127,6 @@ Each cart item shows Amazon.in links to buy its ingredients at home:
 
 ---
 
-## 🚀 How to Run
-
-### Option 1 — Open Locally
-1. Download `index.html`
-2. Place it in your `shop` folder
-3. Double-click to open in any browser ✅
-
-### Option 2 — Host Online Free (Netlify)
-1. Go to **https://app.netlify.com/drop**
-2. Drag and drop `index.html`
-3. Get a live link instantly (e.g. `https://mycoffeeshop.netlify.app`) ✅
-
-### Option 3 — GitHub Pages
-1. Create a GitHub account at **github.com**
-2. New repository → Upload `index.html`
-3. Settings → Pages → Enable
-4. Live at `https://yourname.github.io/coffeeshop` ✅
-
----
-
 ## 🛠️ How to Customize
 
 ### Change Shop Name
